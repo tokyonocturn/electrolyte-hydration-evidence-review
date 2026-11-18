@@ -373,8 +373,8 @@ fluids are adjunctive.
 ## 11. Brands, testing and cost
 
 Only a minority of products in this sample hold third-party sport certification. Precision
-PH 1000 is NSF Certified for Sport; PRIME and DripDrop Zero appear in NSF listings for some
-SKUs. Certification is product- and lot-specific, not brand-wide, and it says nothing about
+Hydration's tablet line is NSF Certified for Sport (the sachet used here is not separately
+verified); PRIME and DripDrop Zero appear in NSF listings for some SKUs. Certification is product- and lot-specific, not brand-wide, and it says nothing about
 formulation quality.
 
 Transparency varies more than quality. Nuun, SaltStick, Re-Lyte and TRIORAL disclose the

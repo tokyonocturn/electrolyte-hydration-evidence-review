@@ -35,8 +35,9 @@ Three programmes matter:
 
 **NSF Certified for Sport.** Tests for more than 290 banned substances, plus label
 accuracy and contaminants, on a lot-by-lot basis. It is the standard for professional and
-collegiate athletes. In this database, Precision PH 1000 holds it; PRIME Hydration and
-DripDrop Zero appear in NSF listings for some products and sizes
+collegiate athletes. Precision Hydration's tablet line holds it; the PH 1000 sachet in this database was
+not separately verified. PRIME Hydration and DripDrop Zero appear in NSF listings for some
+products and sizes
 ([product sources](generated/product-sources.md)).
 
 **Informed Sport.** The other major banned-substance programme, widely used by UK and
@@ -148,7 +149,8 @@ sugar (3.8%). Hypotonic, no artificial sweetener, pleasant. A well-formulated li
 sports drink; costs $2.99 per 1,000 mg sodium.
 
 **Precision Fuel & Hydration.** 500 mg sodium per 500 mL sachet, 125 mg potassium, 12 mg
-magnesium, 24 mg calcium, 16 g sugar, NSF Certified for Sport. The most evidence-oriented
+magnesium, 24 mg calcium, 16 g sugar. The tablet line is NSF Certified for Sport; the
+sachet itself was not separately verified. The most evidence-oriented
 brand in the sample, with a sweat-testing service. Expensive per serving but well
 documented.
 
