@@ -1,0 +1,30 @@
+name: Correction
+description: Report an error with a source
+labels: ["correction"]
+body:
+  - type: input
+    id: location
+    attributes:
+      label: File and line
+      placeholder: "docs/03-sweat-and-fluid-balance.md, line 42"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: DOI, PMID, regulator document, or a label photo or URL.
+    validations:
+      required: true
+  - type: checkboxes
+    id: tables
+    attributes:
+      label: Generated tables
+      options:
+        - label: This change may require regenerating the tables in docs/generated/

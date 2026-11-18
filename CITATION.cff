@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "Electrolytes and Hydration: An Independent Evidence Review and Product Database"
+message: "If you use this review or its datasets, please cite it as below."
+type: report
+authors:
+  - family-names: Edwards
+    given-names: Kevin
+    email: kevinedwards7289@gmail.com
+date-released: 2026-11-18
+license: MIT
+repository-code: "https://github.com/tokyonocturn/electrolyte-hydration-evidence-review"
+keywords:
+  - electrolytes
+  - sodium
+  - potassium
+  - hydration
+  - sports drinks
+  - oral rehydration solution
+  - exercise
+  - heat
+abstract: >-
+  An independent, source-linked review of electrolyte supplements and hydration
+  products, with a reproducible 22-product database normalised to sodium per
+  serving and cost per 1,000 mg of sodium.
