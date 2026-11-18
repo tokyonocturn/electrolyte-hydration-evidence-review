@@ -1,0 +1,35 @@
+id|parameter|value|unit|applies_to|source_id|notes
+S01|Sodium adequate intake|1500|mg/day|Adults 19-50|R29|NASEM AI; not a lower limit for athletes
+S02|Sodium chronic disease risk reduction intake|2300|mg/day|Adults|R29|Level above which population risk of hypertension rises
+S03|WHO sodium ceiling|2000|mg/day|Adults|R26|Equivalent to 5 g salt; strong recommendation
+S04|US mean sodium intake|3400-3600|mg/day|US adults|R26|Context for low-sodium claims in marketing
+S05|Potassium adequate intake|3400|mg/day|Adult men|R29|2600 mg/day for adult women
+S06|WHO potassium target|3510|mg/day|Adults|R27|At least 90 mmol/day, from food
+S07|Potassium tolerable upper intake level|none|n/a|Healthy adults|R29|No UL set; risk is about excretion, not intake, when kidneys are healthy
+S08|Magnesium RDA|400-420|mg/day|Adult men|R62|310-320 mg/day for adult women
+S09|Magnesium supplemental UL|350|mg/day|Adults|R62|Applies to supplemental magnesium, not food
+S10|Calcium RDA|1000-1200|mg/day|Adults|R63|1200 mg/day for women 51+ and men 71+
+S11|Calcium UL|2000-2500|mg/day|Adults|R63|2500 mg/day at 19-50; 2000 mg/day at 51+
+S12|Chloride adequate intake|2300|mg/day|Adults|R29|UL 3600 mg/day
+S13|Sodium content of salt|393|mg/g|All|R29|1 g salt contains 393 mg sodium; 1,000 mg sodium = 2.54 g salt
+S14|Sweat sodium concentration|10-90|mmol/L|Exercising humans|R06|Local sweat; whole-body typically 10-70 mmol/L
+S15|Sweat sodium population mean|42|mmol/L|1,944 sweat tests|R09|SD 12.6; range 17-106 mmol/L
+S16|Sweat potassium concentration|4-8|mmol/L|Exercising humans|R08|Mean about 6 mmol/L in marathoners
+S17|Sweat chloride concentration|20-60|mmol/L|Exercising humans|R08|Mean about 32 mmol/L; tracks sodium
+S18|Sweat magnesium and calcium|below 1|mmol/L|Exercising humans|R52|Small losses; not a rationale for electrolyte drinks
+S19|Whole-body sweat rate|0.5-2.0|L/h|Exercising humans|R06|Can exceed 3 L/h in extreme heat or large athletes
+S20|Body mass loss that impairs performance|2|% body mass|Exercising humans|R16|Threshold varies with heat, intensity and fitness
+S21|Reduced-osmolarity ORS sodium|75|mmol/L|Diarrhoea rehydration|R56|WHO/UNICEF formulation
+S22|Reduced-osmolarity ORS potassium|20|mmol/L|Diarrhoea rehydration|R56|
+S23|Reduced-osmolarity ORS chloride|65|mmol/L|Diarrhoea rehydration|R56|
+S24|Reduced-osmolarity ORS citrate|10|mmol/L|Diarrhoea rehydration|R56|Corrects acidosis
+S25|Reduced-osmolarity ORS glucose|75|mmol/L|Diarrhoea rehydration|R56|Glucose-sodium cotransport
+S26|Reduced-osmolarity ORS osmolarity|245|mOsm/L|Diarrhoea rehydration|R56|Replaced 311 mOsm/L standard ORS
+S27|Typical sports drink sodium|10-25|mmol/L|Sports drinks|R01|About 460-575 mg/L for a 20 mmol/L drink
+S28|Optimal beverage carbohydrate|4-9|% w/v|Exercise over 60 min|R02|6-8% is the common compromise
+S29|Carbohydrate intake 1-2.5 h exercise|30-60|g/h|Athletes|R02|
+S30|Carbohydrate intake over 2.5-3 h exercise|up to 90|g/h|Athletes|R02|Requires multiple transportable carbohydrates
+S31|Serum sodium hyponatraemia threshold|135|mmol/L|Adults|R03|Symptoms can occur at 125-135 if acute
+S32|Severe EAH treatment|100|mL 3% NaCl IV bolus|Adults|R04|Repeat up to twice at 10-minute intervals
+S33|EAH correction target|4-5|mmol/L rise|Adults|R04|Reverse symptoms, then allow spontaneous correction
+S34|OTC potassium tablet limit|99|mg elemental|US OTC drug products|R61|Above this, small-bowel lesion risk; dietary supplements are not bound by the same rule
