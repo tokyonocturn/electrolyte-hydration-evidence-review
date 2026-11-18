@@ -14,7 +14,7 @@ Every row is a question, the best available answer, and a certainty grade. `Esta
 | PH-04 | Is sweat potassium a meaningful loss? | Marathon runners | Cross-sectional | NA | 6.0 (5.1–6.9) mmol/L | Established | Moderate | R08 |
 | PH-05 | Is sweat chloride a meaningful loss? | Marathon runners | Cross-sectional | NA | 32.2 (16.6–47.8) mmol/L | Established | Moderate | R08 |
 | PH-06 | Does heat acclimation reduce sweat sodium? | Healthy men | Controlled acclimation study | 8 | -15 at matched sweat rate mmol/L | Established | Moderate | R37 |
-| PH-07 | Does dietary sodium change sweat sodium? | Healthy adults | Controlled feeding | 25 | Direct relationship | Established | Moderate | R06 |
+| PH-07 | Does dietary sodium change sweat sodium? | Healthy adults | Controlled feeding | NA | Direct relationship | Established | Moderate | R06 |
 | PH-08 | How much magnesium and calcium are lost in sweat? | Exercising adults | Review of sweat composition | NA | Below 1 each mmol/L | Established | Low | R52 |
 | PH-09 | Does sodium drive thirst and fluid retention? | Healthy adults | Review of controlled trials | NA | Increase | Established | High | R39 |
 | PH-10 | Is potassium the main intracellular electrolyte? | Healthy adults | Physiology review | NA | Yes | Established | High | R44 |
@@ -43,7 +43,7 @@ Every row is a question, the best available answer, and a certainty grade. `Esta
 | PF-04 | Does sodium improve performance independently of fluid balance? | Athletes | Review of trials | NA | No independent effect | No benefit | Moderate | R39 |
 | PF-05 | Does carbohydrate mouth rinsing improve short-duration performance? | Trained cyclists | Randomised crossover | 9 | Improved performance | Benefit | Moderate | R67 |
 | PF-06 | Does pre-exercise hyperhydration improve performance in heat? | Athletes | Systematic review | NA | Mixed; may help non-weight-bearing exercise | Mixed | Low | R39 |
-| PF-07 | Does carbohydrate concentration affect gastric emptying? | Healthy adults | Controlled trial | 8 | Rates fall above about 8% Gastric emptying | Established | Moderate | R51 |
+| PF-07 | Does carbohydrate concentration affect gastric emptying? | Healthy adults | Controlled trial | NA | Rates fall above about 8% Gastric emptying | Established | Moderate | R51 |
 | PF-08 | Does heat acclimation improve performance in the heat? | Athletes | Systematic review | NA | Improves | Benefit | High | R38 |
 
 ## Heat
@@ -81,7 +81,7 @@ Every row is a question, the best available answer, and a certainty grade. `Esta
 | SA-01 | Does reduced sodium intake lower blood pressure? | Adults | Meta-analysis of 133 trials | 12197 | -4.26 (-4.89–-3.62) Systolic BP | Benefit | High | R24 |
 | SA-02 | How large is the combined DASH and low-sodium effect? | Adults with pre- or stage 1 hypertension | Randomised feeding trial | 412 | -11.5 Systolic BP | Benefit | High | R21 |
 | SA-03 | Is there a J-shaped relationship between sodium and cardiovascular risk? | Adults in 18 countries | Prospective cohort | 101945 | Lowest risk 3-5 g/day MACE and mortality | Mixed | Low | R19 |
-| SA-04 | Does long-term sodium reduction reduce cardiovascular events? | Adults with pre-hypertension | Extended follow-up of two RCTs | 3000 | About 25% lower Cardiovascular events | Benefit | Moderate | R25 |
+| SA-04 | Does long-term sodium reduction reduce cardiovascular events? | Adults with pre-hypertension | Extended follow-up of two RCTs | NA | About 25% lower Cardiovascular events | Benefit | Moderate | R25 |
 | SA-05 | Does replacing salt with potassium-enriched salt reduce stroke? | Adults in 600 villages | Cluster-randomised trial | 20995 | RR 0.86 (0.77–0.96) Stroke | Benefit | High | R20 |
 | SA-06 | Can a single high-sodium drink raise blood pressure acutely? | Healthy adults | Physiology | NA | Small transient rise | Insufficient | Low | R24 |
 
